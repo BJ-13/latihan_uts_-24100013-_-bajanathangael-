@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Fokus"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cpp": "code-text-binary",
+			"iostream": "cpp"
+		}
+	}
+}
